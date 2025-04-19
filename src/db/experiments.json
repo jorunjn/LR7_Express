@@ -1,0 +1,12 @@
+[
+    {
+      "id": "1",
+      "title": "Изучение ДНК",
+      "researcherId": "1",
+      "durationHours": 120,
+      "isPublished": false,
+      "startDate": "2023-03-01",
+      "equipmentUsed": ["микроскоп"]
+    }
+  ]
+  
